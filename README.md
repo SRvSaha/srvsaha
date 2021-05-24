@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CoWinVaccineSlotFinder](https://github.com/SRvSaha/CoWinVaccineSlotFinder)
 
-- 🌱 I’m currently learning **C++, C#, T-SQL Advance, Distributed Systems, API Design**
+- 🌱 I’m currently learning **C++, C#, T-SQL Advance, Distributed Systems, API Design, Object Oriented Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SRvSaha](https://github.com/SRvSaha)
 
