@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++, C#, T-SQL Advance, Distributed Systems, API Design, Object Oriented Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SRvSaha](https://github.com/SRvSaha)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srvsaha&label=Profile%20views&color=0e75b6&style=flat" alt="srvsaha" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
