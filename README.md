@@ -15,6 +15,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=srvsaha&" alt="srvsaha" /></p>
 
 <h3 align="left">Support:</h3>
-<p>&nbsp;<a href="https://www.buymeacoffee.com/srvsaha"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="srvsaha" /></a></p><br><br>
+<p>&nbsp;<a href="https://www.buymeacoffee.com/srvsaha"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="srvsaha" style="max-width:80%;"/></a></p><br><br>
 
 
