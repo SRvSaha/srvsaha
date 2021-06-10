@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurav Saha</h1>
 <h3 align="center">Software Engineer; Building Softwares to Solve Real-World Problems with #OpenSource</h3>
 
-- 🔭 I’m currently working on [CoWinVaccineSlotFinder](https://github.com/SRvSaha/CoWinVaccineSlotFinder)
+- 🔭 I’m currently working on Nothing!
 
 - 🌱 I’m currently learning **C++, C#, T-SQL Advanced, Distributed Systems, API Design, Object Oriented Design**
 
